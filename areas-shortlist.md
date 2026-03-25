@@ -4,6 +4,31 @@ Budget: £1,400/month | Property type: Whole 1-bed flat (no house shares) | Targ
 
 ---
 
+## Map
+
+Approximate positions relative to Hoxton. Areas marked with `*` are within budget.
+
+```
+                    Stoke Newington * (N16)
+                           |
+                        [buses]
+                           |
+              HOXTON  -----+------------- Walthamstow * (E17)
+              (EC2A)       |               [Overground]
+                        [bus/tube]              |
+                           |              Leyton * (E10)
+                           |
+                    Elephant & Castle * (SE1)
+                           |
+                     Kennington (SE11)
+                           |
+              Vauxhall (SW8) --- Stockwell (SW9)
+```
+
+> [View all areas on Google Maps](https://www.google.com/maps/search/Walthamstow,+Leyton,+Stoke+Newington,+Elephant+and+Castle,+Stockwell,+Vauxhall,+London)
+
+---
+
 ## Recommended Areas (Within Budget)
 
 ### 1. Walthamstow (E17) — Best Overall Pick
